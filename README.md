@@ -12,3 +12,10 @@ $ git clone Https://github.com/CyberCarboon2/verbotx
 $ cd verbotx
 $ python verbot.py
 ```
+
+<h5>Password For This Script
+  
+  ```ruby
+Username : VERBOTX
+Password : GRATISONGKIR
+```
