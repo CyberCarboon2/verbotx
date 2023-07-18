@@ -10,6 +10,7 @@ $ pip install fbthon
 $ pkg install git
 $ git clone Https://github.com/CyberCarboon2/verbotx
 $ cd verbotx
+$ termux-setup-storage
 $ python verbot.py
 ```
 
