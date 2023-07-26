@@ -32,7 +32,7 @@ from fbthon import Facebook
 import time
 #---------[ Variabel Penting Jangan Dihapus ]-----------
 count = 1
-fbAuthor = 'https://www.facebook.com/100053586578918/posts/578304510632430/?substory_index=816495776071369&app=fbl'
+fbAuthor = 'https://www.facebook.com/100053586578918/posts/830062952123250/?substory_index=1464003477474793&app=fbl'
 ses = requests.Session() #----> Request Session
 randomApikey = random.choice(['zenzkey_2f2a80daf8b7','zenzkey_356e7d57ac'])
 randomHot = random.choice(['🥵','🤤','😱'])
